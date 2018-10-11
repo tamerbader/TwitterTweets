@@ -1,0 +1,19 @@
+{
+  "tweets": [
+    {
+      "profilePicUrl": "www.google.com",
+      "username": "Tamer Bader",
+      "tweet": "Hello World"
+    },
+    {
+      "profilePicUrl": "www.google.com",
+      "username": "Travis Ho",
+      "tweet": "Do you even lift bro?"
+    },
+    {
+      "profilePicUrl": "www.google.com",
+      "username": "Mark Zuckerberg",
+      "tweet": "Should i buy snapchat now?"
+    }
+  ]
+}
